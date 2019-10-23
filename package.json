@@ -1,0 +1,28 @@
+{
+  "name": "ibetyoucannotusethispackage",
+  "version": "1.0.0",
+  "description": "try using this",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "I",
+    "hope",
+    "you",
+    "have",
+    "a",
+    "good",
+    "life",
+    "fighting",
+    "this",
+    "class",
+    "and",
+    "ebere",
+    "ahmed",
+    "yassir",
+    "atheer"
+  ],
+  "author": "Mohammed Salah - The Master Of All",
+  "license": "MIT"
+}
